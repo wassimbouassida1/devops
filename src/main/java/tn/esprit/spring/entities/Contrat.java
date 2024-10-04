@@ -18,7 +18,7 @@ public class Contrat implements Serializable {
 	
 
 	/**
-	 * uygfherlk:h
+	 * uygfherlk:hhdkgcjl
 	 */
 
 	private static final long serialVersionUID = 1L;
@@ -26,7 +26,7 @@ public class Contrat implements Serializable {
 	@Id
 	@GeneratedValue(strategy=GenerationType.IDENTITY)
 	private Long reference;
-	
+	/* jegvdbjkzlhcb */
 	@Temporal(TemporalType.DATE)
 	private Date dateDebut;
 	 
